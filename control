@@ -1,0 +1,9 @@
+Package: com.snail.jhshbypass
+Name: 建行生活屏蔽越狱及VPN检测
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 屏蔽建行生活APP的越狱检测及VPN检测。
+Maintainer: Snail
+Author: Snail <snailsohi@gmail.com>
+Section: 软件优化
